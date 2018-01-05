@@ -22,7 +22,7 @@ h2 {
   font-family: Helvetica;
   font-weight: bold;
 }
- 
+
 h3 {
   font-size: 1.5rem;
   font-family: Helvetica;
@@ -84,7 +84,7 @@ a:hover {
 /*tablet nav*/
 
 .nav-mobile {
-  display: none;   
+  display: none;
 }
 /*.desktop nav */
 
@@ -95,14 +95,14 @@ a:hover {
  nav ul li {
     display: none;
   }
-  
+
   .nav-mobile {
   display: block;
   align-content: center;
   width: 100%;
   margin: auto;
   }
-  
+
   nav img {
     height: 2.5rem;
   }
@@ -126,7 +126,7 @@ a:hover {
   max-width: 100%;
   height: auto;
   float: left;
-  padding: 2rem; 
+  padding: 2rem;
 }
 
 .headline {
@@ -186,13 +186,13 @@ a:hover {
   flex-direction: column;
   margin-right: auto;
   width: 60%;
-  padding-top: 2rem; 
+  padding-top: 2rem;
 }
 .col-One img {
   width: 100%;
   height: auto;
 }
-.col-Two {               
+.col-Two {
   flex-direction: column;
   margin-top: 0.5rem;
   width: 35%;
@@ -210,7 +210,7 @@ a:hover {
 
 /*Campus info*/
 
-.columnTwo {               
+.columnTwo {
   display: flex;
   flex-direction: column;
   width: 40%;
@@ -257,7 +257,7 @@ a:hover {
   display: none;
 }
 
-  .col-Two { 
+  .col-Two {
    display: none;
   }
   .mobile-Two {
@@ -265,7 +265,7 @@ a:hover {
     flex-direction: column;
     justify-content: center;
   }
-  
+
   .mobile-flex {
     padding: 1rem;
     width: 100%;
@@ -346,23 +346,23 @@ a:hover {
    .courses  h2{
     margin-bottom: 0.5rem;
   }
-  
+
   .courses-card {
     width: 70%;
     border-radius: 10px;
     text-align: center;
     background-color: #130021;
   }
-  
+
   .courses-card img,
   .courses-card p {
     display: none;
   }
-  
+
   .text-box h4 {
     color: white;
   }
-  
+
   .text-box h5 {
     display: none;
   }
@@ -419,6 +419,12 @@ a:hover {
   .video1 h4,
   .video1 p {
     display: none;
+  }
+  .thesis-colOne {
+    display: flex;
+    flex-direction: column;
+    margin-right: 1rem;
+    width: 100%;
   }
   .thesis-colTwo {
     display: none;
