@@ -86,9 +86,9 @@ a:hover {
 
 @media only screen and (max-width: 576px) {
   .logo {
-      display: none;
+    display: none;
   }
- nav ul li {
+  nav ul li {
     display: none;
   }
 
@@ -250,11 +250,11 @@ a:hover {
     width: 0;
   }
   .col-flex {
-  display: none;
-}
+    display: none;
+  }
 
   .col-Two {
-   display: none;
+    display: none;
   }
   .mobile-Two {
     display: flex;
@@ -278,13 +278,13 @@ a:hover {
     color: #130021;
   }
   a:hover {
-  color: #C43500;
-}
+    color: #C43500;
+  }
 }
 
 /*Courses section*/
 
- h2 {
+h2 {
   padding-top: 2rem;
   color: #DD3B00;
 }
@@ -339,7 +339,7 @@ a:hover {
     width: 100%;
     padding: 1rem 0 0 0;
   }
-   .courses  h2{
+  .courses  h2{
     margin-bottom: 0.5rem;
   }
 
@@ -397,7 +397,7 @@ a:hover {
   padding: 2rem 1rem 0 0;
 }
 
- h1 {
+h1 {
   padding-top: 2rem;
 }
 
